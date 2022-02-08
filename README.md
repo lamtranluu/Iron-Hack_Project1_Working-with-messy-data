@@ -16,4 +16,4 @@ The data source  was used from [Kaggle Pages](https://www.kaggle.com/sl6149/data
 * Key Take Away
 
 ## Challenge
-* Use the data set given with over 6900 job posts from Indeed
+* Use the given data set that contains over 6900 job posts from Indeed interm of Data Science role in US market, August 2018
