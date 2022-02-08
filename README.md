@@ -11,7 +11,7 @@ Identify 2 questions:
 The data source  was used from [Kaggle Pages](https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us?select=alldata.csv/), Job posts from Indeed around August, 2018
 
 ## Table of Content:
-* Challenge
+* [Challenge](https://github.com/lamtranluu/Iron-Hack_Project1_Working-with-messy-data/blob/main/README.md#challenge)
 * Data Insight
 * Key Take Away
 
