@@ -1,6 +1,6 @@
 # <p align='center'> Iron-Hack_Project1_Working-with-messy-data 📃
 ## Project 1: Working with messy data (string &amp; numeric format)
-by Team Obelix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">: Lam Luu, [Josep Trota] & [Angela Wang](https://github.com/newgala), January 2022
+by Team Obelix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">: Lam Luu, [Josep Trota](https://github.com/JosepTrota) & [Angela Wang](https://github.com/newgala), January 2022
 
 🔎 **Identify 2 main objectives:**
 1. **Which location has more job opening for Data Science roles ?**
